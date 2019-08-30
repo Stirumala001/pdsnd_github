@@ -1,7 +1,5 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
+# coding: utf-8:
 # Inserting a comment here!
 
 import time
@@ -183,7 +181,10 @@ if __name__ == "__main__":
 	main()
 
 
-# In[ ]:
+# Done
+
+
+
 
 
 
